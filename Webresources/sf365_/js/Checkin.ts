@@ -11,7 +11,6 @@ namespace sf365.Checkin
         }
 
         public foo() {
-            // Some change
             alert("bar");
         }
     }
