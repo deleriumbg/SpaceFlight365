@@ -9,9 +9,10 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Solution</RootNamespace>
     <AssemblyName>Solution</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -41,7 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="CrmPluginRegistrationAttribute.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -51,18 +51,31 @@
     <Content Include="bin\coretools\Microsoft.Crm.Sdk.Proxy.dll" />
     <Content Include="bin\coretools\Microsoft.IdentityModel.Clients.ActiveDirectory.dll" />
     <Content Include="bin\coretools\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll" />
+    <Content Include="bin\coretools\Microsoft.Rest.ClientRuntime.dll" />
     <Content Include="bin\coretools\Microsoft.Xrm.Sdk.Deployment.dll" />
     <Content Include="bin\coretools\Microsoft.Xrm.Sdk.dll" />
     <Content Include="bin\coretools\Microsoft.Xrm.Tooling.Connector.dll" />
     <Content Include="bin\coretools\Microsoft.Xrm.Tooling.CrmConnectControl.dll" />
     <Content Include="bin\coretools\Microsoft.Xrm.Tooling.Ui.Styles.dll" />
+    <Content Include="bin\coretools\Newtonsoft.Json.dll" />
     <Content Include="bin\coretools\Other Redistributable.txt" />
     <Content Include="bin\coretools\SolutionPackager.exe" />
-    <Content Include="package\**" />
+    <Content Include="bin\coretools\System.ValueTuple.dll" />
+    <Content Include="package\Entities\Account\Entity.xml" />
+    <Content Include="package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml" />
+    <Content Include="package\Entities\Account\RibbonDiff.xml" />
+    <Content Include="package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml" />
+    <Content Include="package\Other\Customizations.xml" />
+    <Content Include="package\Other\Relationships.xml" />
+    <Content Include="package\Other\Solution.xml" />
+    <Content Include="package\WebResources\sf365_\js\Checkin.js.data.xml">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <None Include="bin\coretools\CrmSvcUtil.exe.config" />
     <None Include="bin\coretools\LicenseTerms.docx" />
+    <None Include="bin\coretools\SolutionPackager.exe.config" />
     <None Include="packages.config" />
     <None Include="spkl.json" />
     <None Include="spkl\deploy-plugins.bat" />
