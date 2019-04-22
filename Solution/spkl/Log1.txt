@@ -1,0 +1,10 @@
+13:47:17	Unpacking solution
+13:47:17	Searching for packager config in 'C:\SpaceFlight365\Solution\spkl\..'
+13:47:17	Using Config 'C:\SpaceFlight365\Solution'
+13:48:00	Unpacking solution
+13:48:00	Searching for packager config in 'C:\SpaceFlight365\Solution\spkl\..'
+13:48:00	Using Config 'C:\SpaceFlight365\Solution'
+13:48:31	Target C:\SpaceFlight365\packages\spkl.1.0.226\tools
+13:48:31	Map xml created at 'C:\SpaceFlight365\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
+13:48:31	Running C:\SpaceFlight365\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\deler\AppData\Local\Temp\tmp4BD8.tmp" /folder:"C:\SpaceFlight365\Solution\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+13:48:31	Processed 1 config(s)

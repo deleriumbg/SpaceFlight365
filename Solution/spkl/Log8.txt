@@ -1,0 +1,4 @@
+13:48:31	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+13:48:31	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+13:48:31	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+13:48:31	Read-only files will be over-written or deleted.

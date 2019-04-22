@@ -1,0 +1,5 @@
+13:48:31	Reading mapping directives...
+13:48:31	
+13:48:31	Extracting C:\Users\deler\AppData\Local\Temp\tmp4BD8.tmp to C:\SpaceFlight365\Solution\package
+13:48:31	
+13:48:31	Processing Component: Entities

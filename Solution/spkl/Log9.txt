@@ -1,0 +1,15 @@
+13:48:31	 - Account
+13:48:31	Creating: C:\SpaceFlight365\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+13:48:31	Creating: C:\SpaceFlight365\Solution\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+13:48:31	Creating: C:\SpaceFlight365\Solution\package\Entities\Account\RibbonDiff.xml
+13:48:31	Creating: C:\SpaceFlight365\Solution\package\Entities\Account\Entity.xml
+13:48:31	Processing Component: Roles
+13:48:31	Processing Component: Workflows
+13:48:31	Processing Component: FieldSecurityProfiles
+13:48:31	Processing Component: Templates
+13:48:31	Processing Component: EntityMaps
+13:48:31	Processing Component: EntityRelationships
+13:48:31	Creating: C:\SpaceFlight365\Solution\package\Other\Relationships.xml
+13:48:31	Processing Component: optionsets
+13:48:31	Processing Component: WebResources
+13:48:31	 - sf365_/js/Checkin.js
