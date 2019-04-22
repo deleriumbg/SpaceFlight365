@@ -4410,3 +4410,8 @@ Informational: ========== Run test finished: 2 run (0:00:11.7543684) ==========
 Informational: ------ Discover test started ------
 Warning: No test is available in C:\SpaceFlight365\Webresources\Webresources.csproj. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
 Informational: ========== Discover test finished: 0 found (0:00:01.7249129) ==========
+Informational: ------ Discover test started ------
+Warning: No test is available in C:\SpaceFlight365\Solution\Solution.csproj. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+Informational: ========== Discover test finished: 0 found (0:00:01.5518503) ==========
+Informational: ------ Discover test started ------
+Informational: ========== Discover test finished: 0 found (0:00:00.3999305) ==========

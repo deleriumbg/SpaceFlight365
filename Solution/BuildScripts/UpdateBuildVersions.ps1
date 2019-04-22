@@ -1,6 +1,6 @@
-﻿$env:BUILD_SOURCESDIRECTORY = "C:\SpaceFlight365"
+﻿#$env:BUILD_SOURCESDIRECTORY = "C:\SpaceFlight365"
 
-$Env:BUILD_BUILDNUMBER = "SF365_1.1.123.1"
+#$Env:BUILD_BUILDNUMBER = "SF365_1.1.123.1"
 
 ##-----------------------------------------------------------------------
 ## <copyright file="ApplyVersionToAssemblies.ps1">(c) Microsoft Corporation. This source is subject to the Microsoft Permissive License. See http://www.microsoft.com/resources/sharedsource/licensingbasics/sharedsourcelicenses.mspx. All other rights reserved.</copyright>
