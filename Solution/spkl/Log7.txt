@@ -1,0 +1,14 @@
+14:53:44	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+14:53:44	Map folder 'C:\SpaceFlight365\Solution\package\PluginAssemblies\' does not exist.
+14:53:44	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+14:53:44	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+14:53:44	
+14:53:44	Packing C:\SpaceFlight365\Solution\package to C:\SpaceFlight365\Solution\solution_1_0_0_0.zip
+14:53:44	
+14:53:44	Processing Component: Entities
+14:53:44	 - Account
+14:53:44	Reading: C:\SpaceFlight365\Solution\package\Entities\Account\Entity.xml
+14:53:44	Reading: C:\SpaceFlight365\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+14:53:44	Reading: C:\SpaceFlight365\Solution\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+14:53:44	Reading: C:\SpaceFlight365\Solution\package\Entities\Account\RibbonDiff.xml
+14:53:44	Processing Component: Roles

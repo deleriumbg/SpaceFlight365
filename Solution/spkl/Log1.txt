@@ -8,3 +8,15 @@
 13:48:31	Map xml created at 'C:\SpaceFlight365\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
 13:48:31	Running C:\SpaceFlight365\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\deler\AppData\Local\Temp\tmp4BD8.tmp" /folder:"C:\SpaceFlight365\Solution\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
 13:48:31	Processed 1 config(s)
+14:53:44	Packing & Import Solution
+14:53:44	Searching for packager config in 'C:\SpaceFlight365\Solution\spkl\..'
+14:53:44	Using Config 'C:\SpaceFlight365\Solution'
+14:53:44	Target C:\SpaceFlight365\packages\spkl.1.0.226\tools
+14:53:44	Map xml created at 'C:\SpaceFlight365\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
+14:53:44	Running C:\SpaceFlight365\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Pack /zipfile:"C:\SpaceFlight365\Solution\solution_1_0_0_0.zip" /folder:"C:\SpaceFlight365\Solution\package" /packagetype:unmanaged /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+14:53:44	Solution Packed to 'C:\SpaceFlight365\Solution\solution_1_0_0_0.zip'
+14:53:44	Importing solution 'C:\SpaceFlight365\Solution\solution_1_0_0_0.zip'...
+14:53:46	.14:53:49	.14:53:52	.14:53:54	.14:53:56	.14:53:58	.14:54:00	.14:54:02	.14:54:04	.14:54:07	.14:54:09	.14:54:11	.14:54:13	
+Solution Import Completed. Now publishing....
+14:54:59	Solution Publish Completed
+14:54:59	Processed 1 config(s)
