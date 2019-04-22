@@ -2,3 +2,13 @@
 13:48:31	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
 13:48:31	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
 13:48:31	Read-only files will be over-written or deleted.
+14:29:39	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+14:29:39	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+14:29:39	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+14:29:39	Read-only files will be over-written or deleted.
+14:29:39	No change: C:\SpaceFlight365\Solution\package\Entities\Account\RibbonDiff.xml
+14:29:39	No change: C:\SpaceFlight365\Solution\package\Entities\Account\Entity.xml
+14:29:39	Processing Component: Roles
+14:29:39	Processing Component: Workflows
+14:29:39	Processing Component: FieldSecurityProfiles
+14:29:39	Processing Component: Templates

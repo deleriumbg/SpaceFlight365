@@ -13,3 +13,22 @@
 13:48:31	Processing Component: optionsets
 13:48:31	Processing Component: WebResources
 13:48:31	 - sf365_/js/Checkin.js
+14:29:39	
+14:29:39	Extracting C:\Users\deler\AppData\Local\Temp\tmpF61E.tmp to C:\SpaceFlight365\Solution\package
+14:29:39	
+14:29:39	Processing Component: Entities
+14:38:29	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+14:38:29	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+14:38:29	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+14:38:29	Read-only files will be over-written or deleted.
+14:38:29	
+14:38:29	Extracting C:\Users\deler\AppData\Local\Temp\tmpBA3.tmp to C:\SpaceFlight365\Solution\package
+14:38:29	
+14:38:29	Processing Component: Entities
+14:38:29	 - Account
+14:38:29	Writing: C:\SpaceFlight365\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+14:38:29	No change: C:\SpaceFlight365\Solution\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+14:38:29	No change: C:\SpaceFlight365\Solution\package\Entities\Account\RibbonDiff.xml
+14:38:29	No change: C:\SpaceFlight365\Solution\package\Entities\Account\Entity.xml
+14:38:29	Processing Component: Roles
+14:38:29	Processing Component: Workflows

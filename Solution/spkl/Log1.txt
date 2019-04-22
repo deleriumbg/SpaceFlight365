@@ -8,3 +8,17 @@
 13:48:31	Map xml created at 'C:\SpaceFlight365\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
 13:48:31	Running C:\SpaceFlight365\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\deler\AppData\Local\Temp\tmp4BD8.tmp" /folder:"C:\SpaceFlight365\Solution\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
 13:48:31	Processed 1 config(s)
+14:29:28	Unpacking solution
+14:29:28	Searching for packager config in 'C:\SpaceFlight365\Solution\spkl\..'
+14:29:28	Using Config 'C:\SpaceFlight365\Solution'
+14:29:39	Target C:\SpaceFlight365\packages\spkl.1.0.226\tools
+14:29:39	Map xml created at 'C:\SpaceFlight365\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
+14:29:39	Running C:\SpaceFlight365\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\deler\AppData\Local\Temp\tmpF61E.tmp" /folder:"C:\SpaceFlight365\Solution\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+14:29:39	Processed 1 config(s)
+14:38:18	Unpacking solution
+14:38:18	Searching for packager config in 'C:\SpaceFlight365\Solution\spkl\..'
+14:38:18	Using Config 'C:\SpaceFlight365\Solution'
+14:38:29	Target C:\SpaceFlight365\packages\spkl.1.0.226\tools
+14:38:29	Map xml created at 'C:\SpaceFlight365\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
+14:38:29	Running C:\SpaceFlight365\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\deler\AppData\Local\Temp\tmpBA3.tmp" /folder:"C:\SpaceFlight365\Solution\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+14:38:29	Processed 1 config(s)
