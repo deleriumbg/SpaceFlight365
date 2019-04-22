@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'VS2017-Win2016'
+  vmImage: 'VS2017-Win10'
 
 variables:
   solution: '**/*.sln'
