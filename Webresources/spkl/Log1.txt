@@ -1,0 +1,9 @@
+13:29:05	Deploying WebResources
+13:29:05	Using Config 'C:\SpaceFlight365\Webresources'
+13:29:06	Creating Webresource 'sf365_\js\Checkin.js' -> 'sf365_/js/Checkin.js'
+13:29:07	Adding to solution 'SpaceFlight365'
+13:29:08	Deployed 1 webresource(s)
+13:29:08	Publishing 1 webresources...
+13:29:11	Publish complete.
+13:29:11	Processed 1 section(s)
+13:29:11	Processed 1 config(s)
