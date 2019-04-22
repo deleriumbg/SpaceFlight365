@@ -1,0 +1,14 @@
+14:53:44	Reading mapping directives...
+14:53:44	Processing Component: Workflows
+14:53:44	Processing Component: FieldSecurityProfiles
+14:53:44	Processing Component: Templates
+14:53:44	Processing Component: EntityMaps
+14:53:44	Processing Component: EntityRelationships
+14:53:44	Reading: C:\SpaceFlight365\Solution\package\Other\Relationships.xml
+14:53:44	Processing Component: optionsets
+14:53:44	Processing Component: WebResources
+14:53:44	Reading: C:\SpaceFlight365\Solution\package\WebResources\sf365_\js\Checkin.js.data.xml
+14:53:44	 - sf365_/js/Checkin.js
+14:53:44	Mapping: C:\SpaceFlight365\Solution\package\WebResources\sf365_\js\Checkin.js to C:\SpaceFlight365\Webresources\Webresources\sf365_\js\Checkin.js
+14:53:44	Reading: C:\SpaceFlight365\Webresources\Webresources\sf365_\js\Checkin.js
+14:53:44	Processing Component: EntityDataProviders
