@@ -1,0 +1,20 @@
+19:56:48	Deploying Plugins
+19:56:48	Searching for plugin config in 'C:\SpaceFlight365\Plugins\spkl\..'
+19:56:49	Using Config 'C:\SpaceFlight365\Plugins'
+19:56:49	Checking assembly 'Plugins.dll' for plugins
+19:56:49	2 plugin(s) found!
+19:56:51	Registering Plugin 'Plugins' from 'C:\SpaceFlight365\Plugins\bin\Debug\Plugins.dll'
+19:56:54	Registering Type 'SF365.Plugins.AccountPlugin'
+19:56:58	Registering Step 'Pre-Update Account'
+19:57:00	Registering Image 'PreImage'
+19:57:01	Processed 1 config(s)
+19:59:35	Deploying Plugins
+19:59:35	Searching for plugin config in 'C:\SpaceFlight365\Plugins\spkl\..'
+19:59:36	Using Config 'C:\SpaceFlight365\Plugins'
+19:59:36	Checking assembly 'Plugins.dll' for plugins
+19:59:36	2 plugin(s) found!
+19:59:37	Updating Plugin 'Plugins' from 'C:\SpaceFlight365\Plugins\bin\Debug\Plugins.dll'
+19:59:37	Updating Type 'SF365.Plugins.AccountPlugin'
+19:59:38	Updating Step 'Pre-Update Account'
+19:59:39	Updating Image 'PreImage'
+19:59:39	Processed 1 config(s)

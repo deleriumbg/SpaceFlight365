@@ -7,7 +7,6 @@ namespace sf365.Checkin
         isbusy: KnockoutObservable<boolean>;
         constructor() {
             this.isbusy = ko.observable(false);
-
         }
 
         public foo() {
