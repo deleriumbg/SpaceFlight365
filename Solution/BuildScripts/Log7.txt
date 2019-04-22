@@ -1,0 +1,16 @@
+20:04:24	Reading: C:\SpaceFlight365\Solution\BuildScripts\..\package\Entities\Account\RibbonDiff.xml
+20:04:24	Processing Component: Roles
+20:04:24	Processing Component: Workflows
+20:04:24	Processing Component: FieldSecurityProfiles
+20:04:24	Processing Component: Templates
+20:04:24	Processing Component: EntityMaps
+20:04:24	Processing Component: EntityRelationships
+20:04:24	 - sf365_/js/Checkin.js
+20:04:24	Mapping: C:\SpaceFlight365\Solution\package\WebResources\sf365_\js\Checkin.js to C:\SpaceFlight365\Webresources\Webresources\sf365_\js\checkin.js
+20:04:24	Reading: C:\SpaceFlight365\Webresources\Webresources\sf365_\js\checkin.js
+20:04:24	Processing Component: CustomControls
+20:04:24	Processing Component: EntityDataProviders
+20:04:24	Following root components are not defined in customizations:
+20:04:24	  Type='Dashboard', Id (or schema name)='{8448b78f-8f42-454e-8e2a-f8196b0419af}'.
+20:04:24	
+20:04:24	Following root components are not defined in customizations:

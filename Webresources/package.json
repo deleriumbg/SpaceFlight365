@@ -5,8 +5,11 @@
   "main": "index.js",
   "dependencies": {
     "@types/knockout": "^3.4.65",
+    "@types/qunit": "^2.5.4",
     "knockout": "^3.5.0",
-    "npm": "^6.9.0"
+    "npm": "^6.9.0",
+    "qunit": "^2.9.2",
+    "requirejs": "^2.3.6"
   },
   "devDependencies": {
     "@types/node": "^11.13.6"

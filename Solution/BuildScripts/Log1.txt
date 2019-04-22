@@ -1,0 +1,40 @@
+20:04:24	Packing Solution
+20:04:24	Searching for packager config in 'C:\SpaceFlight365\Solution\BuildScripts\..\spkl.json'
+20:04:24	Using Config 'C:\SpaceFlight365\Solution\BuildScripts\..'
+20:04:24	Target C:\SpaceFlight365\packages\spkl.1.0.226\tools
+20:04:24	Map xml created at 'C:\SpaceFlight365\packages\Microsoft.CrmSdk.CoreTools.9.0.3.1\content\bin\coretools\packager_map.xml'
+20:04:24	Running C:\SpaceFlight365\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.3.1\content\bin\coretools\SolutionPackager.exe /action:Pack /zipfile:"C:\SpaceFlight365\Solution\BuildScripts\..\SpaceFlight365_1_0_0_0.zip" /folder:"C:\SpaceFlight365\Solution\BuildScripts\..\package" /packagetype:unmanaged /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+20:04:24	Solution Packed to 'C:\SpaceFlight365\Solution\BuildScripts\..\SpaceFlight365_1_0_0_0.zip'
+20:04:24	Processed 1 config(s)
+20:05:11	Packing Solution
+20:05:11	Searching for packager config in 'C:\SpaceFlight365\Solution\BuildScripts\..\spkl.json'
+20:05:11	Using Config 'C:\SpaceFlight365\Solution\BuildScripts\..'
+20:05:11	Target C:\SpaceFlight365\packages\spkl.1.0.226\tools
+20:05:11	Map xml created at 'C:\SpaceFlight365\packages\Microsoft.CrmSdk.CoreTools.9.0.3.1\content\bin\coretools\packager_map.xml'
+20:05:11	Running C:\SpaceFlight365\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.3.1\content\bin\coretools\SolutionPackager.exe /action:Pack /zipfile:"C:\SpaceFlight365\Solution\BuildScripts\..\SpaceFlight365_1_0_0_0.zip" /folder:"C:\SpaceFlight365\Solution\BuildScripts\..\package" /packagetype:unmanaged /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+20:05:11	Solution Packed to 'C:\SpaceFlight365\Solution\BuildScripts\..\SpaceFlight365_1_0_0_0.zip'
+20:05:11	Processed 1 config(s)
+20:07:56	Packing Solution
+20:07:56	Searching for packager config in 'C:\SpaceFlight365\Solution\BuildScripts\..\spkl.json'
+20:07:56	Using Config 'C:\SpaceFlight365\Solution\BuildScripts\..'
+20:07:56	Target C:\SpaceFlight365\packages\spkl.1.0.226\tools
+20:07:56	Map xml created at 'C:\SpaceFlight365\packages\Microsoft.CrmSdk.CoreTools.9.0.3.1\content\bin\coretools\packager_map.xml'
+20:07:56	Running C:\SpaceFlight365\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.3.1\content\bin\coretools\SolutionPackager.exe /action:Pack /zipfile:"C:\SpaceFlight365\Solution\BuildScripts\..\SpaceFlight365_1_0_0_0.zip" /folder:"C:\SpaceFlight365\Solution\BuildScripts\..\package" /packagetype:unmanaged /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+20:07:56	Solution Packed to 'C:\SpaceFlight365\Solution\BuildScripts\..\SpaceFlight365_1_0_0_0.zip'
+20:07:56	Processed 1 config(s)
+20:09:12	Packing Solution
+20:09:12	Searching for packager config in 'C:\SpaceFlight365\Solution\BuildScripts\..\spkl.json'
+20:09:12	Using Config 'C:\SpaceFlight365\Solution\BuildScripts\..'
+20:09:12	Target C:\SpaceFlight365\packages\spkl.1.0.226\tools
+20:09:12	Map xml created at 'C:\SpaceFlight365\packages\Microsoft.CrmSdk.CoreTools.9.0.3.1\content\bin\coretools\packager_map.xml'
+20:09:12	Running C:\SpaceFlight365\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.3.1\content\bin\coretools\SolutionPackager.exe /action:Pack /zipfile:"C:\SpaceFlight365\Solution\BuildScripts\..\SpaceFlight365_1_0_0_0.zip" /folder:"C:\SpaceFlight365\Solution\BuildScripts\..\package" /packagetype:unmanaged /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+20:09:12	Solution Packed to 'C:\SpaceFlight365\Solution\BuildScripts\..\SpaceFlight365_1_0_0_0.zip'
+20:09:12	Processed 1 config(s)
+20:24:19	Packing Solution
+20:24:19	Searching for packager config in 'C:\SpaceFlight365\Solution\BuildScripts\..\spkl.json'
+20:24:19	Using Config 'C:\SpaceFlight365\Solution\BuildScripts\..'
+20:24:19	Target C:\SpaceFlight365\packages\spkl.1.0.226\tools
+20:24:19	Map xml created at 'C:\SpaceFlight365\packages\Microsoft.CrmSdk.CoreTools.9.0.3.1\content\bin\coretools\packager_map.xml'
+20:24:19	Running C:\SpaceFlight365\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.3.1\content\bin\coretools\SolutionPackager.exe /action:Pack /zipfile:"C:\SpaceFlight365\Solution\BuildScripts\..\SpaceFlight365_1_1_123_1.zip" /folder:"C:\SpaceFlight365\Solution\BuildScripts\..\package" /packagetype:unmanaged /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+20:24:19	Solution Packed to 'C:\SpaceFlight365\Solution\BuildScripts\..\SpaceFlight365_1_1_123_1.zip'
+20:24:19	Processed 1 config(s)
