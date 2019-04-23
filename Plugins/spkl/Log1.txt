@@ -18,3 +18,34 @@
 19:59:38	Updating Step 'Pre-Update Account'
 19:59:39	Updating Image 'PreImage'
 19:59:39	Processed 1 config(s)
+18:25:20	Generating early bound types
+18:25:20	Searching for plugin config in 'C:\SpaceFlight365\Plugins\spkl\..'
+18:25:20	Using Config 'C:\SpaceFlight365\Plugins'
+18:25:21	Target C:\SpaceFlight365\packages\spkl.1.0.226\tools
+18:25:21	Running C:\SpaceFlight365\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.3.1\content\bin\coretools\CrmSvcUtil.exe /connstr:"AuthType=Office365;Url=https://sflight365.api.crm4.dynamics.com/XRMServices/2011/Organization.svc;Username=admin@sflight365.onmicrosoft.com;Password=700lb@r4O" /out:"C:\SpaceFlight365\Plugins\EarlyBoundTypes.cs" /namespace:"sf365" /serviceContextName:"XrmSvc" /GenerateActions:"False" /codewriterfilter:"spkl.CrmSvcUtilExtensions.FilteringService,spkl.CrmSvcUtilExtensions" /codewritermessagefilter:"spkl.CrmSvcUtilExtensions.MessageFilteringService,spkl.CrmSvcUtilExtensions" /codegenerationservice:"spkl.CrmSvcUtilExtensions.CodeGenerationService, spkl.CrmSvcUtilExtensions" /metadataproviderqueryservice:"spkl.CrmSvcUtilExtensions.MetadataProviderQueryService,spkl.CrmSvcUtilExtensions"
+18:27:31	Generating early bound types
+18:27:31	Searching for plugin config in 'C:\SpaceFlight365\Plugins\spkl\..'
+18:27:31	Using Config 'C:\SpaceFlight365\Plugins'
+18:27:32	Target C:\SpaceFlight365\packages\spkl.1.0.226\tools
+18:27:32	Running C:\SpaceFlight365\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.3.1\content\bin\coretools\CrmSvcUtil.exe /connstr:"AuthType=Office365;Url=https://sflight365.api.crm4.dynamics.com/XRMServices/2011/Organization.svc;Username=admin@sflight365.onmicrosoft.com;Password=700lb@r4O" /out:"C:\SpaceFlight365\Plugins\EarlyBoundTypes.cs" /namespace:"sf365" /serviceContextName:"XrmSvc" /GenerateActions:"False" /codewriterfilter:"spkl.CrmSvcUtilExtensions.FilteringService,spkl.CrmSvcUtilExtensions" /codewritermessagefilter:"spkl.CrmSvcUtilExtensions.MessageFilteringService,spkl.CrmSvcUtilExtensions" /codegenerationservice:"spkl.CrmSvcUtilExtensions.CodeGenerationService, spkl.CrmSvcUtilExtensions" /metadataproviderqueryservice:"spkl.CrmSvcUtilExtensions.MetadataProviderQueryService,spkl.CrmSvcUtilExtensions"
+18:33:21	Generating early bound types
+18:33:21	Searching for plugin config in 'C:\SpaceFlight365\Plugins\spkl\..'
+18:33:21	Using Config 'C:\SpaceFlight365\Plugins'
+18:33:22	Target C:\SpaceFlight365\packages\spkl.1.0.226\tools
+18:33:22	Running C:\SpaceFlight365\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.3.1\content\bin\coretools\CrmSvcUtil.exe /connstr:"AuthType=Office365;Url=https://sflight365.api.crm4.dynamics.com/XRMServices/2011/Organization.svc;Username=admin@sflight365.onmicrosoft.com;Password=700lb@r4O" /out:"C:\SpaceFlight365\Plugins\EarlyBoundTypes.cs" /namespace:"sf365" /serviceContextName:"XrmSvc" /GenerateActions:"False" /codewriterfilter:"spkl.CrmSvcUtilExtensions.FilteringService,spkl.CrmSvcUtilExtensions" /codewritermessagefilter:"spkl.CrmSvcUtilExtensions.MessageFilteringService,spkl.CrmSvcUtilExtensions" /codegenerationservice:"spkl.CrmSvcUtilExtensions.CodeGenerationService, spkl.CrmSvcUtilExtensions" /metadataproviderqueryservice:"spkl.CrmSvcUtilExtensions.MetadataProviderQueryService,spkl.CrmSvcUtilExtensions"
+19:26:03	Deploying Plugins
+19:26:03	Searching for plugin config in 'C:\SpaceFlight365\Plugins\spkl\..'
+19:26:03	Using Config 'C:\SpaceFlight365\Plugins'
+19:26:03	Checking assembly 'Plugins.dll' for plugins
+19:28:39	Deploying Plugins
+19:28:39	Searching for plugin config in 'C:\SpaceFlight365\Plugins\spkl\..'
+19:28:39	Using Config 'C:\SpaceFlight365\Plugins'
+19:28:39	Checking assembly 'Plugins.dll' for plugins
+19:30:49	Deploying Plugins
+19:30:49	Searching for plugin config in 'C:\SpaceFlight365\Plugins\spkl\..'
+19:30:49	Using Config 'C:\SpaceFlight365\Plugins'
+19:30:49	Checking assembly 'Plugins.dll' for plugins
+19:31:24	Deploying Plugins
+19:31:24	Searching for plugin config in 'C:\SpaceFlight365\Plugins\spkl\..'
+19:31:24	Using Config 'C:\SpaceFlight365\Plugins'
+19:31:24	Checking assembly 'Plugins.dll' for plugins

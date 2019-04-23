@@ -83,6 +83,7 @@
   <ItemGroup>
     <Compile Include="AccountPluginTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ExchangeRateTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

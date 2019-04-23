@@ -294,3 +294,4 @@ __pycache__/
 /PackageDeployment/Microsoft.Deployment.Compression.Cab.dll
 /PackageDeployment/Microsoft.Crm.Sdk.Proxy.dll
 /PackageDeployment/LicenseTerms.docx
+/PackageDeployment/PkgFolder/Content/en-us/**

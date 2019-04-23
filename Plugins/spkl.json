@@ -49,11 +49,11 @@
             Comma seperate list of entity logical names.
             I've not provided support for -all- entities because this results in unneccessarily large plugins!
             */
-            "entities": "account,contact,quote",
+            "entities": "TransactionCurrency",
             /*
             Comma seperated list of actions request/responses to generate - leave emtpty or ommit for none
             */
-            "actions": "dev1_simpleaction",
+            "actions": "",
             /*
             Set to 'true' to generate Enums for optionsets
             */
@@ -77,7 +77,7 @@
             /*
             The namespace to put the classes under
             */
-            "classNamespace": "TestPlugin",
+            "classNamespace": "sf365",
             /*
             The name of the Service context to create - leave blank or ommit for none
             */
