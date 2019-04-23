@@ -4415,3 +4415,142 @@ Warning: No test is available in C:\SpaceFlight365\Solution\Solution.csproj. Mak
 Informational: ========== Discover test finished: 0 found (0:00:01.5518503) ==========
 Informational: ------ Discover test started ------
 Informational: ========== Discover test finished: 0 found (0:00:00.3999305) ==========
+devenv.exe Information: 0 : Time:10:04:32.5435405; Thread:1; Message:Solution Unloaded...
+testhost.x86.exe Information: 0 : Time:10:22:04.0743913; Thread:3; Message:Chutzpah run started in mode Discovery with parallelism set to 8
+testhost.x86.exe Information: 0 : Time:10:22:04.0963334; Thread:3; Message:Trying to build test context for c:\spaceflight365\webresources\unittests\checkin-tests.ts
+testhost.x86.exe Information: 0 : Time:10:22:04.1152829; Thread:3; Message:Building test context for c:\spaceflight365\webresources\unittests\checkin-tests.ts
+testhost.x86.exe Information: 0 : Time:10:22:04.1392201; Thread:3; Message:Test file c:\spaceflight365\webresources\unittests\checkin-tests.ts matched folder c:\spaceflight365\webresources\unittests with includes **.ts and excludes **.d.ts patterns from settings file
+testhost.x86.exe Information: 0 : Time:10:22:04.1621578; Thread:3; Message:Investigating reference file path '../node_modules/knockout/build/output/knockout-latest.debug.js'
+testhost.x86.exe Information: 0 : Time:10:22:04.1761208; Thread:3; Message:Added file 'c:\spaceflight365\webresources\node_modules\knockout\build\output\knockout-latest.debug.js' to referenced files. Local: True, IncludeInTestHarness: True
+testhost.x86.exe Information: 0 : Time:10:22:04.1890856; Thread:3; Message:Processing referenced file 'c:\spaceflight365\webresources\node_modules\knockout\build\output\knockout-latest.debug.js' for expanded references
+testhost.x86.exe Information: 0 : Time:10:22:04.2020511; Thread:3; Message:Investigating reference file path '../node_modules/requirejs/require.js'
+testhost.x86.exe Information: 0 : Time:10:22:04.2140191; Thread:3; Message:Added file 'c:\spaceflight365\webresources\node_modules\requirejs\require.js' to referenced files. Local: True, IncludeInTestHarness: True
+testhost.x86.exe Information: 0 : Time:10:22:04.2269842; Thread:3; Message:Processing referenced file 'c:\spaceflight365\webresources\node_modules\requirejs\require.js' for expanded references
+testhost.x86.exe Information: 0 : Time:10:22:04.2399494; Thread:3; Message:Investigating reference file path '../Webresources/sf365_/js/checkin.js'
+testhost.x86.exe Information: 0 : Time:10:22:04.2519174; Thread:3; Message:Added file 'c:\spaceflight365\webresources\Webresources\sf365_\js\checkin.js' to referenced files. Local: True, IncludeInTestHarness: True
+testhost.x86.exe Information: 0 : Time:10:22:04.2638858; Thread:3; Message:Processing referenced file 'c:\spaceflight365\webresources\Webresources\sf365_\js\checkin.js' for expanded references
+testhost.x86.exe Information: 0 : Time:10:22:04.2928098; Thread:3; Message:Added framework dependency 'C:\USERS\DELER\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_82C15100\EXTENSIONS\TXZC2FZG.YNT\ChutzpahTestHarnessFiles\QUnit\v1\qunit.js' to referenced files
+testhost.x86.exe Information: 0 : Time:10:22:04.3057734; Thread:3; Message:Added framework dependency 'C:\USERS\DELER\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_82C15100\EXTENSIONS\TXZC2FZG.YNT\ChutzpahTestHarnessFiles\QUnit\v1\qunit.css' to referenced files
+testhost.x86.exe Information: 0 : Time:10:22:04.3177418; Thread:3; Message:Added framework dependency 'C:\USERS\DELER\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_82C15100\EXTENSIONS\TXZC2FZG.YNT\ChutzpahTestHarnessFiles\chutzpah_boot.js' to referenced files
+testhost.x86.exe Information: 0 : Time:10:22:04.3336991; Thread:3; Message:Finished building test context for c:\spaceflight365\webresources\unittests\checkin-tests.ts
+testhost.x86.exe Information: 0 : Time:10:22:04.3566372; Thread:3; Message:Skipping batch compile since all files are update to date for c:\spaceflight365\webresources\unittests\chutzpah.json
+testhost.x86.exe Information: 0 : Time:10:22:04.3775814; Thread:13; Message:Start test run for c:\spaceflight365\webresources\unittests\checkin-tests.ts in Discovery mode
+testhost.x86.exe Information: 0 : Time:10:22:04.6319020; Thread:13; Message:Using builtin Test Harness from C:\USERS\DELER\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_82C15100\EXTENSIONS\TXZC2FZG.YNT\ChutzpahTestHarnessFiles\qunit\v1\qunit.html
+testhost.x86.exe Information: 0 : Time:10:22:04.7146808; Thread:13; Message:Invoking headless browser on test harness 'c:\spaceflight365\webresources\unittests\_Chutzpah.51e20671f3237a528fe8e43f05dac14b39c31505.test.html' for file 'c:\spaceflight365\webresources\unittests\checkin-tests.ts'
+testhost.x86.exe Information: 0 : Time:10:22:11.8875164; Thread:13; Message:Started headless browser: C:\USERS\DELER\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_82C15100\EXTENSIONS\TXZC2FZG.YNT\phantomjs.exe with PID: 61704 using args: --ignore-ssl-errors=true --proxy-type=none --ssl-protocol=any "C:\USERS\DELER\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_82C15100\EXTENSIONS\TXZC2FZG.YNT\ChutzpahJSRunners\Phantom\qunitRunner.js" "file:///c:/spaceflight365/webresources/unittests/_Chutzpah.51e20671f3237a528fe8e43f05dac14b39c31505.test.html" discovery 10000 False 
+testhost.x86.exe Information: 0 : Time:10:22:13.7156132; Thread:11; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/unittests/_Chutzpah.51e20671f3237a528fe8e43f05dac14b39c31505.test.html
+testhost.x86.exe Information: 0 : Time:10:22:13.7276116; Thread:15; Message:Phantom Log - onInitialized
+testhost.x86.exe Information: 0 : Time:10:22:13.7405475; Thread:15; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:22:13.7525175; Thread:15; Message:Phantom Log - Url Change file:///c:/spaceflight365/webresources/unittests/_Chutzpah.51e20671f3237a528fe8e43f05dac14b39c31505.test.html
+testhost.x86.exe Information: 0 : Time:10:22:13.7644847; Thread:15; Message:Phantom Log - onInitialized
+testhost.x86.exe Information: 0 : Time:10:22:13.7784466; Thread:15; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/unittests/_Chutzpah.51e20671f3237a528fe8e43f05dac14b39c31505.test.html
+testhost.x86.exe Information: 0 : Time:10:22:13.7904122; Thread:15; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:22:13.8033785; Thread:15; Message:Phantom Log - Resource Recieved: file:///C:/USERS/DELER/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_82C15100/EXTENSIONS/TXZC2FZG.YNT/ChutzpahTestHarnessFiles/chutzpah_boot.js
+testhost.x86.exe Information: 0 : Time:10:22:13.8133799; Thread:15; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:22:13.8253199; Thread:15; Message:Phantom Log - Resource Recieved: file:///C:/USERS/DELER/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_82C15100/EXTENSIONS/TXZC2FZG.YNT/ChutzpahTestHarnessFiles/chutzpah_boot.js
+testhost.x86.exe Information: 0 : Time:10:22:13.8360647; Thread:15; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:22:13.8491749; Thread:15; Message:Phantom Log - Resource Recieved: file:///C:/USERS/DELER/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_82C15100/EXTENSIONS/TXZC2FZG.YNT/ChutzpahTestHarnessFiles/QUnit/v1/qunit.css
+testhost.x86.exe Information: 0 : Time:10:22:13.8621661; Thread:15; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:22:13.8741191; Thread:15; Message:Phantom Log - Resource Recieved: file:///C:/USERS/DELER/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_82C15100/EXTENSIONS/TXZC2FZG.YNT/ChutzpahTestHarnessFiles/QUnit/v1/qunit.css
+testhost.x86.exe Information: 0 : Time:10:22:13.8851038; Thread:15; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:22:13.8980428; Thread:15; Message:Phantom Log - Resource Recieved: file:///C:/USERS/DELER/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_82C15100/EXTENSIONS/TXZC2FZG.YNT/ChutzpahTestHarnessFiles/QUnit/v1/qunit.js
+testhost.x86.exe Information: 0 : Time:10:22:13.9090480; Thread:15; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:22:13.9199845; Thread:15; Message:Phantom Log - Resource Recieved: file:///C:/USERS/DELER/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_82C15100/EXTENSIONS/TXZC2FZG.YNT/ChutzpahTestHarnessFiles/QUnit/v1/qunit.js
+testhost.x86.exe Information: 0 : Time:10:22:13.9299587; Thread:15; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:22:13.9409414; Thread:15; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/node_modules/knockout/build/output/knockout-latest.debug.js
+testhost.x86.exe Information: 0 : Time:10:22:13.9519273; Thread:15; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:22:13.9648643; Thread:15; Message:Phantom Log - onQUnitLoaded
+testhost.x86.exe Information: 0 : Time:10:22:13.9748393; Thread:15; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/node_modules/knockout/build/output/knockout-latest.debug.js
+testhost.x86.exe Information: 0 : Time:10:22:13.9868077; Thread:15; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/node_modules/requirejs/require.js
+testhost.x86.exe Information: 0 : Time:10:22:13.9968039; Thread:15; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/node_modules/requirejs/require.js
+testhost.x86.exe Information: 0 : Time:10:22:14.0067531; Thread:15; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/Webresources/sf365_/js/checkin.js
+testhost.x86.exe Information: 0 : Time:10:22:14.0197187; Thread:15; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/Webresources/sf365_/js/checkin.js
+testhost.x86.exe Information: 0 : Time:10:22:14.0306883; Thread:15; Message:Phantom Log - Test file is using module loader.
+testhost.x86.exe Information: 0 : Time:10:22:14.0416884; Thread:15; Message:Phantom Log - onPageLoaded
+testhost.x86.exe Information: 0 : Time:10:22:14.0532618; Thread:15; Message:Phantom Log - Test file is using module loader.
+testhost.x86.exe Information: 0 : Time:10:22:14.0662538; Thread:15; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/unittests/checkin-tests.js
+testhost.x86.exe Information: 0 : Time:10:22:14.0771986; Thread:15; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/unittests/checkin-tests.js
+testhost.x86.exe Information: 0 : Time:10:22:14.0871711; Thread:15; Message:Phantom Log - Starting QUnit from inline AMD call...
+testhost.x86.exe Information: 0 : Time:10:22:14.1320604; Thread:15; Message:Test Case Started:'Client Unit Tests:Checkin Test'
+testhost.x86.exe Information: 0 : Time:10:22:14.1978765; Thread:15; Message:Test Case Finished:'Client Unit Tests:Checkin Test'
+testhost.x86.exe Information: 0 : Time:10:22:14.2118376; Thread:15; Message:Phantom Log - onInitialized
+testhost.x86.exe Information: 0 : Time:10:22:14.2248304; Thread:15; Message:Phantom Log - Url Change about:blank
+testhost.x86.exe Information: 0 : Time:10:22:14.2367719; Thread:15; Message:Phantom Log - onInitialized
+testhost.x86.exe Information: 0 : Time:10:22:14.3228728; Thread:13; Message:Finished reading stream from test file 'c:\spaceflight365\webresources\unittests\checkin-tests.ts'
+testhost.x86.exe Information: 0 : Time:10:22:14.3338465; Thread:13; Message:Ended headless browser: C:\USERS\DELER\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_82C15100\EXTENSIONS\TXZC2FZG.YNT\phantomjs.exe with PID: 61704 using args: --ignore-ssl-errors=true --proxy-type=none --ssl-protocol=any "C:\USERS\DELER\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_82C15100\EXTENSIONS\TXZC2FZG.YNT\ChutzpahJSRunners\Phantom\qunitRunner.js" "file:///c:/spaceflight365/webresources/unittests/_Chutzpah.51e20671f3237a528fe8e43f05dac14b39c31505.test.html" discovery 10000 False 
+testhost.x86.exe Information: 0 : Time:10:22:14.3468116; Thread:13; Message:Test harness 'c:\spaceflight365\webresources\unittests\_Chutzpah.51e20671f3237a528fe8e43f05dac14b39c31505.test.html' for file 'c:\spaceflight365\webresources\unittests\checkin-tests.ts' finished with 1 passed, 0 failed and 0 errors
+testhost.x86.exe Information: 0 : Time:10:22:14.3568142; Thread:13; Message:Finished running headless browser on test harness 'c:\spaceflight365\webresources\unittests\_Chutzpah.51e20671f3237a528fe8e43f05dac14b39c31505.test.html' for file 'c:\spaceflight365\webresources\unittests\checkin-tests.ts'
+testhost.x86.exe Information: 0 : Time:10:22:14.3677550; Thread:13; Message:Finished test run for c:\spaceflight365\webresources\unittests\checkin-tests.ts in Discovery mode
+testhost.x86.exe Information: 0 : Time:10:22:14.3798731; Thread:3; Message:Cleaning up test context for c:\spaceflight365\webresources\unittests\checkin-tests.ts
+testhost.x86.exe Information: 0 : Time:10:22:14.3938678; Thread:3; Message:Chutzpah run finished with 1 passed, 0 failed and 0 errors
+testhost.x86.exe Information: 0 : Time:10:22:14.4078016; Thread:3; Message:Chutzpah.json file cache cleared
+testhost.x86.exe Information: 0 : Time:10:22:14.4197973; Thread:3; Message:End Test Adapter Discover Tests
+testhost.x86.exe Information: 0 : Time:10:28:29.6120082; Thread:3; Message:Chutzpah run started in mode Discovery with parallelism set to 8
+testhost.x86.exe Information: 0 : Time:10:28:29.6299614; Thread:3; Message:Trying to build test context for c:\spaceflight365\webresources\unittests\checkin-tests.ts
+testhost.x86.exe Information: 0 : Time:10:28:29.6489106; Thread:3; Message:Building test context for c:\spaceflight365\webresources\unittests\checkin-tests.ts
+testhost.x86.exe Information: 0 : Time:10:28:29.6708531; Thread:3; Message:Test file c:\spaceflight365\webresources\unittests\checkin-tests.ts matched folder c:\spaceflight365\webresources\unittests with includes **.ts and excludes **.d.ts patterns from settings file
+testhost.x86.exe Information: 0 : Time:10:28:29.6917989; Thread:3; Message:Investigating reference file path '../node_modules/knockout/build/output/knockout-latest.debug.js'
+testhost.x86.exe Information: 0 : Time:10:28:29.7057584; Thread:3; Message:Added file 'c:\spaceflight365\webresources\node_modules\knockout\build\output\knockout-latest.debug.js' to referenced files. Local: True, IncludeInTestHarness: True
+testhost.x86.exe Information: 0 : Time:10:28:29.7197542; Thread:3; Message:Processing referenced file 'c:\spaceflight365\webresources\node_modules\knockout\build\output\knockout-latest.debug.js' for expanded references
+testhost.x86.exe Information: 0 : Time:10:28:29.7336873; Thread:3; Message:Investigating reference file path '../node_modules/requirejs/require.js'
+testhost.x86.exe Information: 0 : Time:10:28:29.7466508; Thread:3; Message:Added file 'c:\spaceflight365\webresources\node_modules\requirejs\require.js' to referenced files. Local: True, IncludeInTestHarness: True
+testhost.x86.exe Information: 0 : Time:10:28:29.7586520; Thread:3; Message:Processing referenced file 'c:\spaceflight365\webresources\node_modules\requirejs\require.js' for expanded references
+testhost.x86.exe Information: 0 : Time:10:28:29.7716092; Thread:3; Message:Investigating reference file path '../Webresources/sf365_/js/checkin.js'
+testhost.x86.exe Information: 0 : Time:10:28:29.7815845; Thread:3; Message:Added file 'c:\spaceflight365\webresources\Webresources\sf365_\js\checkin.js' to referenced files. Local: True, IncludeInTestHarness: True
+testhost.x86.exe Information: 0 : Time:10:28:29.7884318; Thread:3; Message:Processing referenced file 'c:\spaceflight365\webresources\Webresources\sf365_\js\checkin.js' for expanded references
+testhost.x86.exe Information: 0 : Time:10:28:29.8123658; Thread:3; Message:Added framework dependency 'C:\USERS\DELER\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_82C15100\EXTENSIONS\TXZC2FZG.YNT\ChutzpahTestHarnessFiles\QUnit\v1\qunit.js' to referenced files
+testhost.x86.exe Information: 0 : Time:10:28:29.8243488; Thread:3; Message:Added framework dependency 'C:\USERS\DELER\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_82C15100\EXTENSIONS\TXZC2FZG.YNT\ChutzpahTestHarnessFiles\QUnit\v1\qunit.css' to referenced files
+testhost.x86.exe Information: 0 : Time:10:28:29.8353351; Thread:3; Message:Added framework dependency 'C:\USERS\DELER\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_82C15100\EXTENSIONS\TXZC2FZG.YNT\ChutzpahTestHarnessFiles\chutzpah_boot.js' to referenced files
+testhost.x86.exe Information: 0 : Time:10:28:29.8472726; Thread:3; Message:Finished building test context for c:\spaceflight365\webresources\unittests\checkin-tests.ts
+testhost.x86.exe Information: 0 : Time:10:28:29.8712082; Thread:3; Message:Skipping batch compile since all files are update to date for c:\spaceflight365\webresources\unittests\chutzpah.json
+testhost.x86.exe Information: 0 : Time:10:28:29.8861708; Thread:10; Message:Start test run for c:\spaceflight365\webresources\unittests\checkin-tests.ts in Discovery mode
+testhost.x86.exe Information: 0 : Time:10:28:29.9201058; Thread:10; Message:Using builtin Test Harness from C:\USERS\DELER\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_82C15100\EXTENSIONS\TXZC2FZG.YNT\ChutzpahTestHarnessFiles\qunit\v1\qunit.html
+testhost.x86.exe Information: 0 : Time:10:28:29.9470072; Thread:10; Message:Invoking headless browser on test harness 'c:\spaceflight365\webresources\unittests\_Chutzpah.51e20671f3237a528fe8e43f05dac14b39c31505.test.html' for file 'c:\spaceflight365\webresources\unittests\checkin-tests.ts'
+testhost.x86.exe Information: 0 : Time:10:28:29.9729465; Thread:10; Message:Started headless browser: C:\USERS\DELER\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_82C15100\EXTENSIONS\TXZC2FZG.YNT\phantomjs.exe with PID: 49748 using args: --ignore-ssl-errors=true --proxy-type=none --ssl-protocol=any "C:\USERS\DELER\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_82C15100\EXTENSIONS\TXZC2FZG.YNT\ChutzpahJSRunners\Phantom\qunitRunner.js" "file:///c:/spaceflight365/webresources/unittests/_Chutzpah.51e20671f3237a528fe8e43f05dac14b39c31505.test.html" discovery 10000 False 
+testhost.x86.exe Information: 0 : Time:10:28:31.6574565; Thread:12; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/unittests/_Chutzpah.51e20671f3237a528fe8e43f05dac14b39c31505.test.html
+testhost.x86.exe Information: 0 : Time:10:28:31.6743869; Thread:12; Message:Phantom Log - onInitialized
+testhost.x86.exe Information: 0 : Time:10:28:31.6883575; Thread:12; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:28:31.7053048; Thread:12; Message:Phantom Log - Url Change file:///c:/spaceflight365/webresources/unittests/_Chutzpah.51e20671f3237a528fe8e43f05dac14b39c31505.test.html
+testhost.x86.exe Information: 0 : Time:10:28:31.7202682; Thread:12; Message:Phantom Log - onInitialized
+testhost.x86.exe Information: 0 : Time:10:28:31.7342281; Thread:12; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/unittests/_Chutzpah.51e20671f3237a528fe8e43f05dac14b39c31505.test.html
+testhost.x86.exe Information: 0 : Time:10:28:31.7462257; Thread:12; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:28:31.7591766; Thread:12; Message:Phantom Log - Resource Recieved: file:///C:/USERS/DELER/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_82C15100/EXTENSIONS/TXZC2FZG.YNT/ChutzpahTestHarnessFiles/chutzpah_boot.js
+testhost.x86.exe Information: 0 : Time:10:28:31.7701558; Thread:12; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:28:31.7811038; Thread:12; Message:Phantom Log - Resource Recieved: file:///C:/USERS/DELER/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_82C15100/EXTENSIONS/TXZC2FZG.YNT/ChutzpahTestHarnessFiles/chutzpah_boot.js
+testhost.x86.exe Information: 0 : Time:10:28:31.7940693; Thread:12; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:28:31.8050654; Thread:12; Message:Phantom Log - Resource Recieved: file:///C:/USERS/DELER/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_82C15100/EXTENSIONS/TXZC2FZG.YNT/ChutzpahTestHarnessFiles/QUnit/v1/qunit.css
+testhost.x86.exe Information: 0 : Time:10:28:31.8170362; Thread:12; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:28:31.8289754; Thread:12; Message:Phantom Log - Resource Recieved: file:///C:/USERS/DELER/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_82C15100/EXTENSIONS/TXZC2FZG.YNT/ChutzpahTestHarnessFiles/QUnit/v1/qunit.css
+testhost.x86.exe Information: 0 : Time:10:28:31.8409438; Thread:12; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:28:31.8549048; Thread:12; Message:Phantom Log - Resource Recieved: file:///C:/USERS/DELER/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_82C15100/EXTENSIONS/TXZC2FZG.YNT/ChutzpahTestHarnessFiles/QUnit/v1/qunit.js
+testhost.x86.exe Information: 0 : Time:10:28:31.8688675; Thread:12; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:28:31.8818350; Thread:12; Message:Phantom Log - Resource Recieved: file:///C:/USERS/DELER/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/15.0_82C15100/EXTENSIONS/TXZC2FZG.YNT/ChutzpahTestHarnessFiles/QUnit/v1/qunit.js
+testhost.x86.exe Information: 0 : Time:10:28:31.8948242; Thread:12; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:28:31.9087608; Thread:12; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/node_modules/knockout/build/output/knockout-latest.debug.js
+testhost.x86.exe Information: 0 : Time:10:28:31.9197329; Thread:12; Message:Phantom Log - isQunitLoaded
+testhost.x86.exe Information: 0 : Time:10:28:31.9317009; Thread:12; Message:Phantom Log - onQUnitLoaded
+testhost.x86.exe Information: 0 : Time:10:28:31.9447182; Thread:12; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/node_modules/knockout/build/output/knockout-latest.debug.js
+testhost.x86.exe Information: 0 : Time:10:28:31.9546943; Thread:12; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/node_modules/requirejs/require.js
+testhost.x86.exe Information: 0 : Time:10:28:31.9676871; Thread:12; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/node_modules/requirejs/require.js
+testhost.x86.exe Information: 0 : Time:10:28:31.9786405; Thread:12; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/Webresources/sf365_/js/checkin.js
+testhost.x86.exe Information: 0 : Time:10:28:31.9886324; Thread:12; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/Webresources/sf365_/js/checkin.js
+testhost.x86.exe Information: 0 : Time:10:28:31.9955851; Thread:12; Message:Phantom Log - Test file is using module loader.
+testhost.x86.exe Information: 0 : Time:10:28:32.0125408; Thread:12; Message:Phantom Log - onPageLoaded
+testhost.x86.exe Information: 0 : Time:10:28:32.0235334; Thread:12; Message:Phantom Log - Test file is using module loader.
+testhost.x86.exe Information: 0 : Time:10:28:32.0355081; Thread:12; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/unittests/checkin-tests.js
+testhost.x86.exe Information: 0 : Time:10:28:32.0464742; Thread:12; Message:Phantom Log - Resource Recieved: file:///c:/spaceflight365/webresources/unittests/checkin-tests.js
+testhost.x86.exe Information: 0 : Time:10:28:32.0564677; Thread:12; Message:Phantom Log - Starting QUnit from inline AMD call...
+testhost.x86.exe Information: 0 : Time:10:28:32.0973400; Thread:7; Message:Test Case Started:'Client Unit Tests:Checkin Test'
+testhost.x86.exe Information: 0 : Time:10:28:32.1441872; Thread:7; Message:Test Case Finished:'Client Unit Tests:Checkin Test'
+testhost.x86.exe Information: 0 : Time:10:28:32.1561556; Thread:7; Message:Phantom Log - onInitialized
+testhost.x86.exe Information: 0 : Time:10:28:32.1671249; Thread:7; Message:Phantom Log - Url Change about:blank
+testhost.x86.exe Information: 0 : Time:10:28:32.1791225; Thread:7; Message:Phantom Log - onInitialized
+testhost.x86.exe Information: 0 : Time:10:28:32.2133222; Thread:10; Message:Finished reading stream from test file 'c:\spaceflight365\webresources\unittests\checkin-tests.ts'
+testhost.x86.exe Information: 0 : Time:10:28:32.2262881; Thread:10; Message:Ended headless browser: C:\USERS\DELER\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_82C15100\EXTENSIONS\TXZC2FZG.YNT\phantomjs.exe with PID: 49748 using args: --ignore-ssl-errors=true --proxy-type=none --ssl-protocol=any "C:\USERS\DELER\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_82C15100\EXTENSIONS\TXZC2FZG.YNT\ChutzpahJSRunners\Phantom\qunitRunner.js" "file:///c:/spaceflight365/webresources/unittests/_Chutzpah.51e20671f3237a528fe8e43f05dac14b39c31505.test.html" discovery 10000 False 
+testhost.x86.exe Information: 0 : Time:10:28:32.2462348; Thread:10; Message:Test harness 'c:\spaceflight365\webresources\unittests\_Chutzpah.51e20671f3237a528fe8e43f05dac14b39c31505.test.html' for file 'c:\spaceflight365\webresources\unittests\checkin-tests.ts' finished with 1 passed, 0 failed and 0 errors
+testhost.x86.exe Information: 0 : Time:10:28:32.2621914; Thread:10; Message:Finished running headless browser on test harness 'c:\spaceflight365\webresources\unittests\_Chutzpah.51e20671f3237a528fe8e43f05dac14b39c31505.test.html' for file 'c:\spaceflight365\webresources\unittests\checkin-tests.ts'
+testhost.x86.exe Information: 0 : Time:10:28:32.2761568; Thread:10; Message:Finished test run for c:\spaceflight365\webresources\unittests\checkin-tests.ts in Discovery mode
+testhost.x86.exe Information: 0 : Time:10:28:32.2881228; Thread:3; Message:Cleaning up test context for c:\spaceflight365\webresources\unittests\checkin-tests.ts
+testhost.x86.exe Information: 0 : Time:10:28:32.3060756; Thread:3; Message:Chutzpah run finished with 1 passed, 0 failed and 0 errors
+testhost.x86.exe Information: 0 : Time:10:28:32.3180420; Thread:3; Message:Chutzpah.json file cache cleared
+testhost.x86.exe Information: 0 : Time:10:28:32.3300100; Thread:3; Message:End Test Adapter Discover Tests
