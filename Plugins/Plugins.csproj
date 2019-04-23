@@ -108,6 +108,7 @@
     <Compile Include="EarlyBoundTypes.cs" />
     <Compile Include="ExchangeRateActionPlugin.cs" />
     <Compile Include="ExchangeRateResult.cs" />
+    <Compile Include="FlightDataVirtualEntityPlugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

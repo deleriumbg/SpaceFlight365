@@ -49,3 +49,7 @@
 19:31:24	Searching for plugin config in 'C:\SpaceFlight365\Plugins\spkl\..'
 19:31:24	Using Config 'C:\SpaceFlight365\Plugins'
 19:31:24	Checking assembly 'Plugins.dll' for plugins
+20:47:03	Deploying Plugins
+20:47:03	Searching for plugin config in 'C:\SpaceFlight365\Plugins\spkl\..'
+20:47:03	Using Config 'C:\SpaceFlight365\Plugins'
+20:47:03	Checking assembly 'Plugins.dll' for plugins
