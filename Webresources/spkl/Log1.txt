@@ -7,3 +7,12 @@
 13:29:11	Publish complete.
 13:29:11	Processed 1 section(s)
 13:29:11	Processed 1 config(s)
+09:56:11	Deploying WebResources
+09:56:12	Using Config 'C:\SpaceFlight365\Webresources'
+09:56:15	Creating Webresource 'sf365_\js\ClientHooks.js' -> 'sf365_/js/ClientHooks.js'
+09:56:18	Adding to solution 'SpaceFlight365'
+09:56:21	Deployed 1 webresource(s)
+09:56:21	Publishing 1 webresources...
+09:56:23	Publish complete.
+09:56:23	Processed 1 section(s)
+09:56:23	Processed 1 config(s)
